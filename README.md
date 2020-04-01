@@ -1,2 +1,2 @@
 # instagram-scraper
-![](sample.jpg)
+![](sample.png)
